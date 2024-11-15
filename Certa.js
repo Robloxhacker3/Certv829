@@ -5,7 +5,7 @@ const archiver = require('archiver');  // For creating zip files
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.DirectMessages, GatewayIntentBits.MessageContent] });
 
-const TOKEN = 'MTI4NjAxMDA3NjE1ODYyMzgyNQ.GJaN-2.gvDRZLcyaIalPnVJM3Ns8a76ek_lDmOnBrQl6w
+const TOKEN = 'MTI4NjAxMDA3NjE1ODYyMzgyNQ.GM4gSI.zN74j5A28uyU2bHlCiMUzq8w9cXtwAIzdekbiE
 ';  // Replace with your bot's token
 const FILE_HOSTING_URL = 'https://yourfilehosting.com/path/to/zipfile'; // Replace with the link to the hosted zip file
 
